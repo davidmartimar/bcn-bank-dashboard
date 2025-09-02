@@ -6,6 +6,11 @@ Este proyecto analiza más de 2.000 transacciones bancarias ficticias para descu
 📁 **[Ver el repositorio en GitHub](https://github.com/davidmartimar/bcn-bank-dashboard)**
 
 ---
+## Dashboard Preview
+
+![BCN BANK Dashboard](dashboard/bcn_bank_dashboard.jpg)
+
+---
 
 ## 🛠️ Tecnologías usadas
 
